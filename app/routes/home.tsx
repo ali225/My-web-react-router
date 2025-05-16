@@ -29,20 +29,20 @@ export default function Home() {
               I'm a passionate web developer creating amazing digital experiences
             </p>
             <div className="flex gap-5 justify-center mt-2">
-              <a href="#" className="text-slate-400 hover:text-blue-500 text-2xl transition focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500" aria-label="GitHub">
+              <a href="https://github.com/ali225" className="text-slate-400 hover:text-blue-500 text-2xl transition focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500" aria-label="GitHub">
                 <i className="fab fa-github"></i>
               </a>
-              <a href="#" className="text-slate-400 hover:text-blue-500 text-2xl transition focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500" aria-label="LinkedIn">
+              <a href="https://www.linkedin.com/in/aligamal-25/" className="text-slate-400 hover:text-blue-500 text-2xl transition focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500" aria-label="LinkedIn">
                 <i className="fab fa-linkedin"></i>
               </a>
-              <a href="#" className="text-slate-400 hover:text-blue-500 text-2xl transition focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500" aria-label="Twitter">
-                <i className="fab fa-twitter"></i>
+              <a href="https://www.youtube.com/@engaligamalengaligamal" className="text-slate-400 hover:text-blue-500 text-2xl transition focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500" aria-label="YouTube">
+                <i className="fab fa-youtube"></i>
               </a>
-              <a href="#" className="text-slate-400 hover:text-blue-500 text-2xl transition focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500" aria-label="Facebook">
+              <a href="https://www.facebook.com/eng.ali.gamal" className="text-slate-400 hover:text-blue-500 text-2xl transition focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500" aria-label="Facebook">
                 <i className="fab fa-facebook"></i>
               </a>
-              <a href="#" className="text-slate-400 hover:text-blue-500 text-2xl transition focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500" aria-label="YouTube">
-                <i className="fab fa-youtube"></i>
+              <a href="https://x.com/aligamal_25" className="text-slate-400 hover:text-blue-500 text-2xl transition focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500" aria-label="Twitter">
+                <i className="fab fa-twitter"></i>
               </a>
               <a href="#" className="text-slate-400 hover:text-blue-500 text-2xl transition focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500" aria-label="Instagram">
                 <i className="fab fa-instagram"></i>
