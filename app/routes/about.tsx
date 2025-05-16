@@ -19,7 +19,7 @@ export default function About() {
               that make a difference.
             </p>
             <p className="text-slate-400 mb-4">
-              My journey in web development started 5 years ago, and since then, I've worked on various 
+              My Ali Gamal in web development started 5 years ago, and since then, I've worked on various 
               projects ranging from small business websites to complex web applications. I specialize in 
               front-end development and have a strong foundation in HTML, CSS, JavaScript, and modern frameworks.
             </p>
