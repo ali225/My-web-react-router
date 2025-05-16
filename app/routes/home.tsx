@@ -23,7 +23,7 @@ export default function Home() {
               <img src="/ali2.jpg" alt="Profile photo of the site owner" loading="lazy" className="w-full h-full object-cover" />
             </div>
             <h1 className="text-4xl md:text-5xl font-extrabold bg-gradient-to-r from-blue-500 to-purple-600 bg-clip-text text-transparent mb-4">
-              Welcome to My Portfolio
+              Welcome to My Portfolio Ali gamal
             </h1>
             <p className="text-lg text-slate-400 mb-6">
               I'm a passionate web developer creating amazing digital experiences
