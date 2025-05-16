@@ -4,22 +4,22 @@ import Footer from '../components/Footer';
 export default function Portfolio() {
   const projects = [
     {
-      image: 'https://via.placeholder.com/300x250',
+      image: '/work-1.png',
       title: 'E-commerce Website',
       description: 'A full-featured online store with payment integration',
     },
     {
-      image: 'https://via.placeholder.com/300x250',
+      image: '/work-2.png',
       title: 'Mobile App Design',
       description: 'UI/UX design for a fitness tracking application',
     },
     {
-      image: 'https://via.placeholder.com/300x250',
+      image: '/work-3.png',
       title: 'Corporate Website',
       description: 'Modern website for a tech startup company',
     },
     {
-      image: 'https://via.placeholder.com/300x250',
+      image: '/work-1.png',
       title: 'Blog Platform',
       description: 'Custom blog system with content management',
     },
