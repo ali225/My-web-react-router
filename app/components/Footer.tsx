@@ -2,12 +2,12 @@ import { Link } from 'react-router-dom';
 
 export default function Footer() {
   const socialLinks = [
-    { icon: 'github', label: 'GitHub', href: '#' },
-    { icon: 'linkedin', label: 'LinkedIn', href: '#' },
-    { icon: 'twitter', label: 'Twitter', href: '#' },
-    { icon: 'facebook', label: 'Facebook', href: '#' },
-    { icon: 'youtube', label: 'YouTube', href: '#' },
-    { icon: 'instagram', label: 'Instagram', href: '#' },
+    { icon: 'github', label: 'GitHub', href: 'https://github.com/ali225' },
+    { icon: 'linkedin', label: 'LinkedIn', href: 'https://www.linkedin.com/in/aligamal-25/' },
+    { icon: 'twitter', label: 'Twitter', href: 'https://x.com/aligamal_25' },
+    { icon: 'facebook', label: 'Facebook', href: 'https://www.facebook.com/eng.ali.gamal' },
+    { icon: 'youtube', label: 'YouTube', href: 'https://www.youtube.com/@engaligamalengaligamal' },
+    { icon: 'instagram', label: 'Instagram', href: 'https://www.instagram.com/eng.ali.gamal/' },
   ];
 
   const quickLinks = [
@@ -25,13 +25,13 @@ export default function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-4">Contact Info</h3>
             <p className="flex items-center gap-2 text-slate-400 mb-2">
-              <i className="fas fa-envelope" aria-hidden="true"></i> email@example.com
+              <i className="fas fa-envelope" aria-hidden="true"></i> aligamal225@gmail.com
             </p>
             <p className="flex items-center gap-2 text-slate-400 mb-2">
-              <i className="fas fa-phone" aria-hidden="true"></i> +1 234 567 890
+              <i className="fas fa-phone" aria-hidden="true"></i> +20 111 402 5352
             </p>
             <p className="flex items-center gap-2 text-slate-400">
-              <i className="fas fa-map-marker-alt" aria-hidden="true"></i> New York, USA
+              <i className="fas fa-map-marker-alt" aria-hidden="true"></i> Egypt
             </p>
           </div>
           <div>

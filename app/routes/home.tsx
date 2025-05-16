@@ -44,7 +44,7 @@ export default function Home() {
               <a href="https://x.com/aligamal_25" className="text-slate-400 hover:text-blue-500 text-2xl transition focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500" aria-label="Twitter">
                 <i className="fab fa-twitter"></i>
               </a>
-              <a href="#" className="text-slate-400 hover:text-blue-500 text-2xl transition focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500" aria-label="Instagram">
+              <a href="https://www.instagram.com/eng.ali.gamal/" className="text-slate-400 hover:text-blue-500 text-2xl transition focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500" aria-label="Instagram">
                 <i className="fab fa-instagram"></i>
               </a>
             </div>
